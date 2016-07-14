@@ -457,6 +457,7 @@ function renderHours(container, template, collection, type){
                 
             }
             if (val.open_time && val.close_time && val.is_closed == false){
+                console.log(vaal)
                 var open_time = new Date (val.open_time)
                 var close_time = new Date (val.close_time)
                 val.open_time = convert_hour(open_time);
