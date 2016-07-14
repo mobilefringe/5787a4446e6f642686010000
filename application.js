@@ -512,13 +512,13 @@ function renderHours(container, template, collection, type){
                     console.log(val.open_time)
                     var open_time = moment(val.open_time)
                     var close_time = moment(val.close_time)
-                    val.open_time = open_time.tz('America/Edmonton').format('hh:mmA');
-                    val.close_time = close_time.tz('America/Edmonton').format('hh:mmA');    
-                    if (val.open_time == "0:00 AM"){
-                        val.open_time = "12:00 AM"
+                    open_time = open_time.tz('America/Edmonton').format('hh:mmA');
+                    close_time = close_time.tz('America/Edmonton').format('hh:mmA');    
+                    if (open_time == "0:00 AM"){
+                        open_time = "12:00 AM"
                     }
-                     if (val.close_time == "0:00 AM"){
-                        val.close_time = "12:00 AM"
+                    if (close_time == "0:00 AM"){
+                        close_time = "12:00 AM"
                     }
                     val.h = val.open_time+ " to " + val.close_time;
                 } else {
