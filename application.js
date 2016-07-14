@@ -603,7 +603,7 @@ function renderHomeHours(container, template, collection){
             open_time = open_time.tz('America/Edmonton').format('hh:mmA');
             close_time = close_time.tz('America/Edmonton').format('hh:mmA');
             val.day = get_day(d.getDay())
-            val.h = val.open_time+ " - " + val.close_time;
+            val.h = open_time+ " - " + close_time;
         } else {
             val.h = "Closed";
         }
