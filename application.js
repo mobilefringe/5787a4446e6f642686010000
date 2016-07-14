@@ -512,8 +512,8 @@ function renderHours(container, template, collection, type){
                     
                     var open_time = new Date (val.open_time)
                     var close_time = new Date (val.close_time)
-                    val.open_time = convert_hour(open_time);
-                    val.close_time = convert_hour(close_time);    
+                    val.open_time = open_time.tz('America/Edmonton').format('hh:mmA');
+                    val.close_time = close_time.tz('America/Edmonton').format('hh:mmA');    
                     if (val.open_time == "0:00 AM"){
                         val.open_time = "12:00 AM"
                     }
