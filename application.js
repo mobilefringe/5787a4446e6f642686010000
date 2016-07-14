@@ -457,7 +457,6 @@ function renderHours(container, template, collection, type){
                 
             }
             if (val.open_time && val.close_time && val.is_closed == false){
-                console.log(val)
                 var open_time = moment(val.open_time)
                 var close_time = moment(val.close_time)
                 val.open_time = open_time.tz('America/Edmonton').format('hh:mmA');
