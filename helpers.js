@@ -219,6 +219,7 @@ function get_day(id){
 
 
 function convert_hour(d){
+    console.log(d)
     return d.tz('America/Edmonton').format('hh:mmA');
 }
 
