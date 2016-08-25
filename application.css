@@ -6,8 +6,8 @@ For more information on asset types please see http://www.getcodecloud.com/docs#
 
 @font-face{
     font-family: u8-regular;
-    src: url('//assets.codecloudapp.com/sites/5730acef6e6f6455e0000000/font/truetype/1461457460000/u8-regular Italic.ttf') format('truetype');
-    src: url('//assets.codecloudapp.com/sites/5730acef6e6f6455e0000000//1463611626000/u8-regular-Italic.woff') format('woff');
+    src: url('https://assets.codecloudapp.com/sites/5730acef6e6f6455e0000000/font/truetype/1461457460000/u8-regular Italic.ttf') format('truetype');
+    src: url('https://assets.codecloudapp.com/sites/5730acef6e6f6455e0000000//1463611626000/u8-regular-Italic.woff') format('woff');
     font-family:italic;
 }
 
