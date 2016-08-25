@@ -59,8 +59,8 @@
    </script>
     
     <script>
-        setEndPoint('http://core.mallmaverickstaging.com/api/v3/core/all.json');
-        setSocialEndPoint('http://core.mallmaverick.com/api/v2/core/social.json')
+        setEndPoint('https://core.mallmaverickstaging.com/api/v3/core/all.json');
+        setSocialEndPoint('https://core.mallmaverick.com/api/v2/core/social.json')
     </script>
 </head>
 
