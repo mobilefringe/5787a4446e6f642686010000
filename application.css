@@ -6,45 +6,45 @@ For more information on asset types please see http://www.getcodecloud.com/docs#
 
 @font-face{
     font-family: u8-regular;
-    src: url('https://assets.codecloudapp.com/sites/5730acef6e6f6455e0000000/font/truetype/1461457460000/u8-regular Italic.ttf') format('truetype');
-    src: url('https://assets.codecloudapp.com/sites/5730acef6e6f6455e0000000//1463611626000/u8-regular-Italic.woff') format('woff');
+    src: url('//assets.codecloudapp.com/sites/5730acef6e6f6455e0000000/font/truetype/1461457460000/u8-regular Italic.ttf') format('truetype');
+    src: url('//assets.codecloudapp.com/sites/5730acef6e6f6455e0000000//1463611626000/u8-regular-Italic.woff') format('woff');
     font-family:italic;
 }
 
 
 @font-face{
     font-family: joe;
-    src: url('http://assets.codecloudapp.com/sites/5787a4446e6f642686010000//1466128082000/JOEBOB graphics - dear_JoeHannes.eot') format('eot');
-    src: url('http://assets.codecloudapp.com/sites/5787a4446e6f642686010000//1466128084000/JOEBOB graphics - dear_JoeHannes.woff') format('woff');
-    src: url('http://assets.codecloudapp.com/sites/575838706e6f642b07060000/image/svg+xml/1466128082000/JOEBOB graphics - dear_JoeHannes.svg') format('svg');
-    src: url('http://assets.codecloudapp.com/sites/5787a4446e6f642686010000/font/truetype/1466128084000/JOEBOB graphics - dear_JoeHannes.ttf') format('truetype')
+    src: url('//assets.codecloudapp.com/sites/5787a4446e6f642686010000//1466128082000/JOEBOB graphics - dear_JoeHannes.eot') format('eot');
+    src: url('//assets.codecloudapp.com/sites/5787a4446e6f642686010000//1466128084000/JOEBOB graphics - dear_JoeHannes.woff') format('woff');
+    src: url('//assets.codecloudapp.com/sites/575838706e6f642b07060000/image/svg+xml/1466128082000/JOEBOB graphics - dear_JoeHannes.svg') format('svg');
+    src: url('//assets.codecloudapp.com/sites/5787a4446e6f642686010000/font/truetype/1466128084000/JOEBOB graphics - dear_JoeHannes.ttf') format('truetype')
 }
 
 @font-face{
     font-family: futura;
-    src: url('http://assets.codecloudapp.com/sites/5787a4446e6f642686010000//1466628958000/futura-condensed-medium.eot') format('eot');
-    src: url('http://assets.codecloudapp.com/sites/5787a4446e6f642686010000//1466628958000/futura-condensed-medium.woff') format('woff');
+    src: url('//assets.codecloudapp.com/sites/5787a4446e6f642686010000//1466628958000/futura-condensed-medium.eot') format('eot');
+    src: url('//assets.codecloudapp.com/sites/5787a4446e6f642686010000//1466628958000/futura-condensed-medium.woff') format('woff');
 }
 
 
 @font-face{
     font-family: u8-regular;
-    src: url('http://assets.codecloudapp.com/sites/5787a4446e6f642686010000//1466041468000/U8-Regular-web.eot') format('eot');
-    src: url('http://assets.codecloudapp.com/sites/5787a4446e6f642686010000//1466041468000/U8-Regular-web.woff') format('woff');
+    src: url('//assets.codecloudapp.com/sites/5787a4446e6f642686010000//1466041468000/U8-Regular-web.eot') format('eot');
+    src: url('//assets.codecloudapp.com/sites/5787a4446e6f642686010000//1466041468000/U8-Regular-web.woff') format('woff');
 }
 
 @font-face{
     font-family: u8-regular;
-    src: url('http://assets.codecloudapp.com/sites/5787a4446e6f642686010000//1466105572000/U8-Black-web.eot') format('eot');
-    src: url('http://assets.codecloudapp.com/sites/5787a4446e6f642686010000//1466105572000/U8-Black-web.woff') format('woff');
+    src: url('//assets.codecloudapp.com/sites/5787a4446e6f642686010000//1466105572000/U8-Black-web.eot') format('eot');
+    src: url('//assets.codecloudapp.com/sites/5787a4446e6f642686010000//1466105572000/U8-Black-web.woff') format('woff');
     font-weight: bold;
 }
 
 
 @font-face{
     font-family: u8-black;
-    src: url('http://assets.codecloudapp.com/sites/5787a4446e6f642686010000//1466105572000/U8-Black-web.eot') format('eot');
-    src: url('http://assets.codecloudapp.com/sites/5787a4446e6f642686010000//1466105572000/U8-Black-web.woff') format('woff');
+    src: url('//assets.codecloudapp.com/sites/5787a4446e6f642686010000//1466105572000/U8-Black-web.eot') format('eot');
+    src: url('//assets.codecloudapp.com/sites/5787a4446e6f642686010000//1466105572000/U8-Black-web.woff') format('woff');
 }
 
 
