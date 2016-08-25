@@ -29,14 +29,14 @@ For more information on asset types please see http://www.getcodecloud.com/docs#
 
 @font-face{
     font-family: u8-regular;
-    src: url('//assets.codecloudapp.com/sites/5787a4446e6f642686010000//1466041468000/U8-Regular-web.eot') format('eot');
-    src: url('//assets.codecloudapp.com/sites/5787a4446e6f642686010000//1466041468000/U8-Regular-web.woff') format('woff');
+    src: url('https://assets.codecloudapp.com/sites/5787a4446e6f642686010000//1466041468000/U8-Regular-web.eot') format('eot');
+    src: url('https://assets.codecloudapp.com/sites/5787a4446e6f642686010000//1466041468000/U8-Regular-web.woff') format('woff');
 }
 
 @font-face{
     font-family: u8-regular;
-    src: url('//assets.codecloudapp.com/sites/5787a4446e6f642686010000//1466105572000/U8-Black-web.eot') format('eot');
-    src: url('//assets.codecloudapp.com/sites/5787a4446e6f642686010000//1466105572000/U8-Black-web.woff') format('woff');
+    src: url('https://assets.codecloudapp.com/sites/5787a4446e6f642686010000//1466105572000/U8-Black-web.eot') format('eot');
+    src: url('https//assets.codecloudapp.com/sites/5787a4446e6f642686010000//1466105572000/U8-Black-web.woff') format('woff');
     font-weight: bold;
 }
 
